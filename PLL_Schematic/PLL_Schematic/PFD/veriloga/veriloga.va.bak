@@ -1,0 +1,9 @@
+// VerilogA for PLL_Schematic, PFD, veriloga
+
+`include "constants.vams"
+`include "disciplines.vams"
+
+module PFD;
+
+
+endmodule

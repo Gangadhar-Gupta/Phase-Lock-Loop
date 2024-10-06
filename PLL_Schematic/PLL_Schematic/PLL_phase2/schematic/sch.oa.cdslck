@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vlsilab4
+HostName                       cadence311
+ProcessIdentifier              2988
+ProcessCreationTime_UTC        1710091341
+ProcessCreationTime_Readable   Sun Mar 10 22:52:21 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/vlsilab4/Desktop/csl2023/PLL_Schematic/PLL_phase2/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Mar 10 22:52:43 2024 IST
